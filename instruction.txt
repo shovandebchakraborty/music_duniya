@@ -1,0 +1,8 @@
+project:- Music app
+
+[Side bar]
+1. Home page
+2. Library
+3. Explore
+4. Favourite
+5. Playlists.
